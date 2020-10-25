@@ -5,7 +5,7 @@ body {
     color: rgb(255, 255, 255);
     font-family: 'Press Start 2P', cursive;
   
-    /** permet de centrer les éléments dans la page **/
+    /**centrer**/
     display: flex;
     min-height: 100vh;
     flex-direction: column;
@@ -14,7 +14,7 @@ body {
     text-align: center;
   }
   
-  /** l'image fait toujours la même hauteur **/
+  /**hauteur**/
   img{
     margin: 40px;
     border: 1px solid rgb(181, 135, 255);
@@ -22,7 +22,7 @@ body {
     height: 40vh;
     width: auto;
   }
-  /** les titres ne sont pas trop grands **/
+  /**titres**/
   h1,h2{
     max-width: 800px;
     line-height: 1.5;
