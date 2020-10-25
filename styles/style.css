@@ -36,9 +36,9 @@ body {
     font-size: 20px;
   }
   .btn {
-    box-shadow: 6px 6px 0px 0px #6d4e0b;
-    background:#333;
-    border:1px solid #EEDD0b;
+    box-shadow: 12px 12px 2px 1px #7d5c86;
+    background:rgb(0, 0, 0);
+    border:1px solid #fa7ed0;
     display:inline-block;
     cursor:pointer;
     color:#ffffff;
@@ -46,5 +46,5 @@ body {
     font-size:17px;
     padding:7px 25px;
     text-decoration:none;
-    text-shadow:0px 1px 0px #810e05;
+    text-shadow:0px 1px 0px #b2d0fd;
   }
