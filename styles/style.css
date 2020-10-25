@@ -36,7 +36,7 @@ body {
     font-size: 20px;
   }
   .btn {
-    box-shadow: 10px 10px 2px 1px #7d5c86;
+    box-shadow: 8px 10px 2px 1px #7d5c86;
     background:rgb(0, 0, 0);
     border:1px solid #fa7ed0;
     display:inline-block;
